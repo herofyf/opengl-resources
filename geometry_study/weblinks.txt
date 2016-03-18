@@ -1,1 +1,5 @@
 http://betterexplained.com/articles/cross-product/
+
+
+
+https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/
