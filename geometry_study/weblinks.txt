@@ -3,3 +3,7 @@ http://betterexplained.com/articles/cross-product/
 
 
 https://www.topcoder.com/community/data-science/data-science-tutorials/geometry-concepts-basic-concepts/
+
+
+线性代数：
+https://ccjou.wordpress.com/2010/04/19/%e6%ad%a3%e4%ba%a4%e6%8a%95%e5%bd%b1-%e5%a8%81%e5%8a%9b%e5%bc%b7%e5%a4%a7%e7%9a%84%e4%bb%a3%e6%95%b8%e5%b7%a5%e5%85%b7/
