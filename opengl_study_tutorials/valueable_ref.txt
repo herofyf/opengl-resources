@@ -1,6 +1,13 @@
-OpenGL����ѧϰ1-6:http://www.doc88.com/p-599933110692.html
+OpenGLÈëÃÅÑ§Ï°1-6:http://www.doc88.com/p-599933110692.html
 
 
 
 Rendering Countless Blades of Waving Grass
 http://http.developer.nvidia.com/GPUGems/gpugems_ch07.html
+
+
+流水线图形化:
+http://blog.csdn.net/racehorse/article/details/6593719
+
+相关opengl函数使用在不同的阶段
+https://cg2010studio.com/2011/06/29/shader/
