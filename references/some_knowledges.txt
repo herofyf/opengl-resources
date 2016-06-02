@@ -1,1 +1,5 @@
 http://www.matrix44.net/cms/notes/opengl-3d-graphics/the-ads-lighting-model
+
+
+The Theory of Stencil Shadow Volumes :
+http://www.gamedev.net/page/resources/_/technical/graphics-programming-and-theory/the-theory-of-stencil-shadow-volumes-r1873
